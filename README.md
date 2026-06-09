@@ -85,7 +85,7 @@ python expense_tracker.py
 
 ### View Expenses
 
-![View Expenses](expenses.png)
+![View Expenses](view.png)
 
 ### Insights Dashboard
 
